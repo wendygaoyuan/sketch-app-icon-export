@@ -11,4 +11,4 @@
 - 打开 [Plugins] -> [App Icon Export] -> [📱 导出图标]
 导出的文件夹里自动包含开发所需的Content.json文件(iOS14、Xcode 12.2 可用)，直接将AppIcon.appiconset打包给研发，开心你我他~
 
-![usage](./usage.gif)
+![usage](https://cdn.jsdelivr.net/gh/wendygaoyuan/sketch-app-icon-export/usage.gif)
